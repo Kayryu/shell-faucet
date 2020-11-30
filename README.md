@@ -8,3 +8,8 @@
 4. Use `wget` tool to download file: `wget https://raw.githubusercontent.com/Kayryu/shell-faucet/master/docker.sh`
 5. Modify file attributes：`chmod +x docker.sh`
 6. Run :`./docker.sh`
+
+# Other tools
+
+## shadowsocks
+wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
